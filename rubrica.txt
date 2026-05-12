@@ -1,0 +1,174 @@
+Detalles de la rúbrica
+Puntuación máxima
+
+100 puntos
+
+Completamente logrado
+Implementa la estructura de la base de datos solicitada de modo correcto.
+
+10
+Logrado
+Implementa la estructura de la base de datos solicitada con 1 o 2 errores.
+
+6
+En proceso de logro
+Implementa la estructura de la base de datos solicitada con 3 o más errores.
+
+5
+No logrado
+No implementa la estructura de base de datos solicitada.
+
+2
+
+Completamente logrado
+Implementa el módulo login de forma correcta.
+
+10
+Logrado
+Implementa el módulo login con 1 error.
+
+6
+En proceso de logro
+Implementa el módulo login con 2 o más errores.
+
+5
+No logrado
+No implementa el módulo login.
+
+2
+
+Completamente logrado
+Utiliza correctamente el modelo de clase acorde a la solución planteada.
+
+10
+Logrado
+Utiliza el modelo de clase acorde a la solución con 1 o 2 errores.
+
+6
+En proceso de logro
+Utiliza el modelo de clase acorde a la solución con 3 o más errores.
+
+5
+No logrado
+No utiliza correctamente el modelo de clase.
+
+2
+
+Completamente logrado
+Desarrolla el menú de control de acuerdo con el requerimiento planteado.
+
+10
+Logrado
+Desarrolla el menú de control de acuerdo con el requerimiento con 1 error.
+
+6
+En proceso de logro
+Desarrolla el menú de control de acuerdo con el requerimiento con 2 o más errores.
+
+5
+No logrado
+No desarrolla el menú de control.
+
+2
+
+Completamente logrado
+Implementa la función de ingreso de datos de acuerdo con los requerimientos.
+
+10
+Logrado
+Implementa la función de ingreso de datos con 1 error.
+
+6
+En proceso de logro
+Implementa la función de ingreso de datos con 2 o más errores.
+
+5
+No logrado
+No implementa la función de ingreso de datos.
+
+2
+
+Completamente logrado
+Implementa la función de consulta de datos de acuerdo con los requerimientos.
+
+10
+Logrado
+Implementa la función de consulta de datos con 1 error.
+
+6
+En proceso de logro
+Implementa la función de consulta de datos con 2 o más errores.
+
+5
+No logrado
+No implementa la función de consulta de datos.
+
+2
+
+Completamente logrado
+Implementa la función de modificación de datos de acuerdo con los requerimientos.
+
+10
+Logrado
+Implementa la función de modificación con 1 error.
+
+6
+En proceso de logro
+Implementa la función de modificación con 2 o más errores.
+
+5
+No logrado
+No implementa la función de modificación.
+
+2
+
+Completamente logrado
+Implementa la función de despliegue de datos de acuerdo con los requerimientos.
+
+10
+Logrado
+Implementa la función de despliegue con 1 error.
+
+6
+En proceso de logro
+Implementa la función de despliegue con 2 o más errores.
+
+5
+No logrado
+No implementa la función de despliegue de datos.
+
+2
+
+Completamente logrado
+Implementa la función de conexión con la base de datos de acuerdo con los requerimientos.
+
+10
+Logrado
+Implementa la función de conexión con la base de datos, pero con 1 error.
+
+6
+En proceso de logro
+Implementa la función de conexión con la base de datos, pero con 2 o más errores.
+
+5
+No logrado
+No implementa la función de conexión a base de datos.
+
+2
+
+Completamente logrado
+Separa el sistema por capas o carpetas de acuerdo con los requerimientos.
+
+10
+Logrado
+Separa el sistema por capas o carpetas, pero con 1 error.
+
+6
+En proceso de logro
+Separa el sistema por capas o carpetas, pero con 2 o más errores.
+
+5
+No logrado
+No implementa separación por capas o carpetas de desarrollo.
+
+2
