@@ -35,5 +35,10 @@ namespace WinAppPermisoCirculacion.Vista
             if (resp == DialogResult.Yes)
                 Application.Exit();
         }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
