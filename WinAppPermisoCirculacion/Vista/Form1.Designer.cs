@@ -51,7 +51,7 @@ namespace WinAppPermisoCirculacion.Vista
             //
             this.gestionContribuyentesToolStripMenuItem.Name = "gestionContribuyentesToolStripMenuItem";
             this.gestionContribuyentesToolStripMenuItem.Size = new System.Drawing.Size(210, 22);
-            this.gestionContribuyentesToolStripMenuItem.Text = "Gestion Contribuyentes";
+            this.gestionContribuyentesToolStripMenuItem.Text = "Gestión Contribuyentes";
             this.gestionContribuyentesToolStripMenuItem.Click += new System.EventHandler(this.gestionContribuyentesToolStripMenuItem_Click);
             //
             // vehiculosToolStripMenuItem
@@ -60,13 +60,13 @@ namespace WinAppPermisoCirculacion.Vista
             this.gestionVehiculosToolStripMenuItem});
             this.vehiculosToolStripMenuItem.Name = "vehiculosToolStripMenuItem";
             this.vehiculosToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
-            this.vehiculosToolStripMenuItem.Text = "Vehiculos";
+            this.vehiculosToolStripMenuItem.Text = "Vehículos";
             //
             // gestionVehiculosToolStripMenuItem
             //
             this.gestionVehiculosToolStripMenuItem.Name = "gestionVehiculosToolStripMenuItem";
             this.gestionVehiculosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.gestionVehiculosToolStripMenuItem.Text = "Gestion Vehiculos";
+            this.gestionVehiculosToolStripMenuItem.Text = "Gestión Vehículos";
             this.gestionVehiculosToolStripMenuItem.Click += new System.EventHandler(this.gestionVehiculosToolStripMenuItem_Click);
             //
             // salirToolStripMenuItem
@@ -81,7 +81,7 @@ namespace WinAppPermisoCirculacion.Vista
             //
             this.salirDeAplicacionToolStripMenuItem.Name = "salirDeAplicacionToolStripMenuItem";
             this.salirDeAplicacionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.salirDeAplicacionToolStripMenuItem.Text = "Salir de Aplicacion";
+            this.salirDeAplicacionToolStripMenuItem.Text = "Salir de Aplicación";
             this.salirDeAplicacionToolStripMenuItem.Click += new System.EventHandler(this.salirDeAplicacionToolStripMenuItem_Click);
             //
             // Form1
@@ -93,7 +93,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Sistema Permiso de Circulacion";
+            this.Text = "Sistema Permiso de Circulación";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

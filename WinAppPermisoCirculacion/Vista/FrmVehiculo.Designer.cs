@@ -85,7 +85,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(874, 454);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Agregar Vehiculo";
+            this.tabPage1.Text = "Agregar Vehículo";
             this.tabPage1.UseVisualStyleBackColor = true;
             //
             // groupBox1
@@ -108,7 +108,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.groupBox1.Size = new System.Drawing.Size(504, 310);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Datos Vehiculo";
+            this.groupBox1.Text = "Datos Vehículo";
             //
             // btnIngresar
             //
@@ -134,7 +134,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(80, 13);
             this.label6.TabIndex = 10;
-            this.label6.Text = "Rut Contribuy.:";
+            this.label6.Text = "RUT:";
             //
             // txtAnio
             //
@@ -150,7 +150,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(29, 13);
             this.label5.TabIndex = 8;
-            this.label5.Text = "Ano:";
+            this.label5.Text = "Año:";
             //
             // txtColor
             //
@@ -225,7 +225,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(874, 454);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Editar Vehiculo";
+            this.tabPage2.Text = "Editar Vehículo";
             this.tabPage2.UseVisualStyleBackColor = true;
             //
             // groupBox3
@@ -238,7 +238,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.groupBox3.Size = new System.Drawing.Size(504, 80);
             this.groupBox3.TabIndex = 9;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Busqueda de Datos por Patente";
+            this.groupBox3.Text = "Búsqueda de Datos por Patente";
             //
             // btnBuscar
             //
@@ -287,7 +287,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.groupBox2.Size = new System.Drawing.Size(504, 310);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Editor de Datos del Vehiculo";
+            this.groupBox2.Text = "Editor de Datos del Vehículo";
             //
             // btnEliminar
             //
@@ -323,7 +323,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(80, 13);
             this.label13.TabIndex = 12;
-            this.label13.Text = "Rut Contribuy.:";
+            this.label13.Text = "RUT:";
             //
             // txtAnioEd
             //
@@ -339,7 +339,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(29, 13);
             this.label12.TabIndex = 10;
-            this.label12.Text = "Ano:";
+            this.label12.Text = "Año:";
             //
             // txtColorEd
             //
@@ -414,7 +414,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Size = new System.Drawing.Size(874, 454);
             this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Listar Vehiculos";
+            this.tabPage3.Text = "Listar Vehículos";
             this.tabPage3.UseVisualStyleBackColor = true;
             //
             // dataVehiculos
@@ -442,7 +442,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.ClientSize = new System.Drawing.Size(968, 560);
             this.Controls.Add(this.tabControl1);
             this.Name = "FrmVehiculo";
-            this.Text = "FrmVehiculo";
+            this.Text = "Vehículos";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);

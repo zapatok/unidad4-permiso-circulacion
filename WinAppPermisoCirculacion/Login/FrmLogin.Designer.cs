@@ -40,7 +40,7 @@ namespace WinAppPermisoCirculacion.Login
             this.groupBox1.Size = new System.Drawing.Size(350, 200);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "PAGINA DE ENLACE DEL SISTEMA";
+            this.groupBox1.Text = "INGRESAR";
             //
             // label1
             //
@@ -65,7 +65,7 @@ namespace WinAppPermisoCirculacion.Login
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(82, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "CONTRASENA:";
+            this.label2.Text = "CONTRASEÑA:";
             //
             // txtClave
             //
@@ -103,7 +103,7 @@ namespace WinAppPermisoCirculacion.Login
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login - Sistema Permiso Circulacion";
+            this.Text = "Login - Sistema Permiso Circulación";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

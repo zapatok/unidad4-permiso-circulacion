@@ -75,7 +75,7 @@ namespace WinAppPermisoCirculacion.Vista
                 if (resp > 0)
                     MessageBox.Show("Contribuyente Modificado en la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("Modificacion de Contribuyente Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Modificación de Contribuyente Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
@@ -93,7 +93,7 @@ namespace WinAppPermisoCirculacion.Vista
                 if (resp > 0)
                     MessageBox.Show("Contribuyente Eliminado de la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("Eliminacion de Contribuyente Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Eliminación de Contribuyente Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {

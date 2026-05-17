@@ -20,7 +20,7 @@ namespace WinAppPermisoCirculacion.Datos
             }
             catch (Exception ex)
             {
-                MessageBox.Show("CONEXION FALLADA...VERIFIQUE..." + ex.ToString());
+                MessageBox.Show("CONEXIÓN FALLADA...VERIFIQUE..." + ex.ToString());
             }
             return canal;
         }

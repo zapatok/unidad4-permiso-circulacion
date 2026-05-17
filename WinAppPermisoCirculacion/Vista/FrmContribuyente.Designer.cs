@@ -150,7 +150,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(55, 13);
             this.label5.TabIndex = 8;
-            this.label5.Text = "Direccion:";
+            this.label5.Text = "Dirección:";
             //
             // txtNacionalidad
             //
@@ -214,7 +214,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(27, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Rut:";
+            this.label1.Text = "RUT:";
             //
             // tabPage2
             //
@@ -238,7 +238,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.groupBox3.Size = new System.Drawing.Size(504, 80);
             this.groupBox3.TabIndex = 9;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Busqueda de Datos por Rut";
+            this.groupBox3.Text = "Búsqueda de Datos por RUT";
             //
             // btnBuscar
             //
@@ -264,7 +264,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(27, 13);
             this.label7.TabIndex = 9;
-            this.label7.Text = "Rut:";
+            this.label7.Text = "RUT:";
             //
             // groupBox2
             //
@@ -339,7 +339,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(55, 13);
             this.label12.TabIndex = 10;
-            this.label12.Text = "Direccion:";
+            this.label12.Text = "Dirección:";
             //
             // txtNacionalidadEd
             //
@@ -404,7 +404,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(27, 13);
             this.label8.TabIndex = 0;
-            this.label8.Text = "Rut:";
+            this.label8.Text = "RUT:";
             //
             // tabPage3
             //
@@ -442,7 +442,7 @@ namespace WinAppPermisoCirculacion.Vista
             this.ClientSize = new System.Drawing.Size(968, 560);
             this.Controls.Add(this.tabControl1);
             this.Name = "FrmContribuyente";
-            this.Text = "FrmContribuyente";
+            this.Text = "Contribuyentes";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);

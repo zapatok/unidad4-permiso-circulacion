@@ -33,9 +33,9 @@ namespace WinAppPermisoCirculacion.Vista
                 veh.rut = txtRut.Text;
                 int resp = tveh.ingresarVehiculo(veh);
                 if (resp > 0)
-                    MessageBox.Show("Vehiculo ingresado a la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Vehículo ingresado a la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("Ingreso de Vehiculo Fallado!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Ingreso de Vehículo Fallado!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
@@ -73,9 +73,9 @@ namespace WinAppPermisoCirculacion.Vista
                 veh.rut = txtRutEd.Text;
                 int resp = tveh.modificarVehiculo(veh);
                 if (resp > 0)
-                    MessageBox.Show("Vehiculo Modificado en la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Vehículo Modificado en la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("Modificacion de Vehiculo Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Modificación de Vehículo Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
@@ -91,9 +91,9 @@ namespace WinAppPermisoCirculacion.Vista
                 string patente = txtPatenteBus.Text;
                 int resp = tveh.eliminarVehiculo(patente);
                 if (resp > 0)
-                    MessageBox.Show("Vehiculo Eliminado de la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Vehículo Eliminado de la tabla!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("Eliminacion de Vehiculo Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Eliminación de Vehículo Fallada!!!", "AVISO DE SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
